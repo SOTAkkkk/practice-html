@@ -1,0 +1,17 @@
+header {
+    display: flex;
+}
+
+.flex-row {
+    display: flex;
+}
+
+.logo {
+    height: 40px;
+}
+
+.mainVisual {
+    height: 600px;
+    width: 100%;
+}
+

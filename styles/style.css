@@ -1,5 +1,11 @@
 header {
     display: flex;
+    justify-content: space-between;
+    padding: 0 4%;
+    align-items: center;
+}
+.wrapper {
+    padding: 0 4%;
 }
 
 .flex-row {
@@ -10,6 +16,10 @@ header {
     height: 40px;
 }
 
+.non-dot-list {
+    margin-left: 30px;
+    list-style: none;
+}
 .mainVisual {
     height: 600px;
     width: 100%;
